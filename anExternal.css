@@ -1,0 +1,46 @@
+/* Our Css Document */
+
+body {
+    background-color: turquoise;
+}
+
+.lapushImg {
+    height: 50px; 
+    width: 50px;
+}
+
+.Container {
+    position: relative;
+    text-align: center;
+}
+
+#whatsupbeaches {
+
+    width: 500px;
+    margin: 20px;
+}
+
+
+.words {
+    color: white;
+    border-style: dotted;
+    border-width: thin;
+    text-shadow: 5px 5px 5px blueviolet;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+#campgear {
+ float: right;
+ border-radius: 25px;
+ background: rgb(33, 117, 173);
+ padding: 20px;
+ width: 200px;
+ height: 150px
+}
+
+#campImg {
+    width: 150px;
+}
